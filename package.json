@@ -1,10 +1,9 @@
 {
   "name": "json.human",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert JSON to human readable HTML",
   "main": "src/json.human.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/ratson/json.human.js"
@@ -17,8 +16,7 @@
   ],
   "author": "Ratson",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "files": [
     "*.md",
     "css",
